@@ -23,6 +23,7 @@ This project is a simple survey form created using HTML. It allows users to prov
 2. Open `index.html` in your web browser.
 3. Fill out the survey form and click the "Submit" button to submit your responses.
 
-## Copyright
-&copy; Aryan Sarode 2023
+## Author
+
+This Tribute Page was created by [Aryan Sarode] in [2023].
 
