@@ -13,8 +13,7 @@ This project is a simple survey form created using HTML. It allows users to prov
 - HTML
 
 ## Demo/Preview
-[Demo Of The Page](/AryanSarode18/Survey-Form-HTML-Only/index.html)
-
+[Demo Of The Page](https://github.com/AryanSarode18/Survey-Form-HTML-Only/blob/main/index.html)
 ## Screenshots
 ![Survey Form](https://github.com/AryanSarode18/Survey-Form-HTML-Only/assets/117713349/ec6dc6c1-0812-427a-be8d-c89c45077ed1)
 
